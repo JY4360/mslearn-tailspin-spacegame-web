@@ -1,3 +1,4 @@
+[![Build Status](https://dhrsmarketplace.visualstudio.com/Space%20Game%20-%20web%20-%20Workflow/_apis/build/status/JY4360.mslearn-tailspin-spacegame-web?branchName=master)](https://dhrsmarketplace.visualstudio.com/Space%20Game%20-%20web%20-%20Workflow/_build/latest?definitionId=326&branchName=master)
 
 # Contributing
 
